@@ -19,22 +19,23 @@
      this.output2 = input2
  };
  - We instaniate functions aka call it. 
-    - let callvar = new Function("Datastring", "DataNumber);
+    - let callvar = new Function("DataString", "DataNumber);
 
 6. Explain the difference between a parameter and an argument:
-  - Write your answer here...
+  - parameters would be like input1 and input2, and arguments would be "DataString" and "DataNUmber"
 
 7. What is special about a class's name?
-  - Write your answer here...
+  - Captial Letters
 
 8. What does the constructor method do?
-  - Write your answer here...
+  - There can only be one method named constructor in a class.
+  - A special method for creating instantiating and a object
 
 9. What keyword will allow a constructor to call the constructor of a super class?
-  - Write your answer here...
+  - they can use the "super" keyword
 
 10. What keyword creates a new instance of a class?
-  - Write your answer here...
+  - the keyword "new" aka const person = new Person("arguments", "parameters");
 
 11. EXTRA CREDIT: What is object oriented programming?
   - Write your answer here...
