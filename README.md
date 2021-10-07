@@ -6,3 +6,5 @@ This is a Page for reading notes
 [Class 12](class12.md)
 
 [Class 17](class17.md)
+
+[Class 18](class18.md)
