@@ -40,3 +40,17 @@
     "Code": "Block"
 }
 ```
+This is a sentence with a footnote. [^1]
+
+[^1]: This is the footnote?
+
+### Heading ids {#custom-id}
+
+term
+Hi: A way of saying hello
+
+~~The world will explode in 3...2...1~~
+
+- [x] Get into 301
+- [x] Make a Markdown CheatSheet
+- [] Total World Domination
