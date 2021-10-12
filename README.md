@@ -1,5 +1,7 @@
-# Welcome to Reading notes
-This is a Page for reading notes
+# Welcome to Lecture Notes301
+This is a Page for lecture notes
+
+[Markdown Cheatsheet](mdcs.md)
 
 [ES6 introduction](ES6intro.md)
 
@@ -8,3 +10,5 @@ This is a Page for reading notes
 [Class 17](class17.md)
 
 [Class 18](class18.md)
+
+[`Component State`](class19.md)
