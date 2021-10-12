@@ -53,4 +53,4 @@ Hi: A way of saying hello
 
 - [x] Get into 301
 - [x] Make a Markdown CheatSheet
-- [] Total World Domination
+- [ ] Total World Domination
