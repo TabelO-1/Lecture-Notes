@@ -12,7 +12,7 @@
 - `props`
 
 5. What happens if `super(props)` isn't called?
-- If `super(props)` is not called, then an error will be thrown.
+- If `super(props)`[^1] is not called, then an error will be thrown. 
 
 6. How many properties can your state object have?
 - As many as you want.
@@ -31,3 +31,5 @@
 
 11. What kind of function do we use when defining our custom methods?
 - Write your answer here...
+
+[^1]: Super props is taking properties from react.compontent to instatiate properties
