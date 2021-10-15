@@ -5,6 +5,8 @@ This is a Page for lecture notes
 
 [ES6 introduction](ES6intro.md)
 
+[Arrow Functions Syntax](./ArrowFunctionSyntax/index.html)
+
 [Class 12](class12.md)
 
 [Class 17](class17.md)
