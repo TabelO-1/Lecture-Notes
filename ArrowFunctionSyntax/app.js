@@ -126,7 +126,7 @@ let objectLit = () => ({
 console.log(objectLit());
 
 
-let sumAndProduct = (a, b) => /*stopped here*/{
+let sumAndProduct = (a, b) => {
   let sum = a + b;
   let product = a * b;
   return [sum, product];
@@ -136,9 +136,7 @@ let sumAndProduct = (a, b) => /*stopped here*/{
 console.log(sumAndProduct(3, 9));
 
 
-let message = function(name) {
-  return `Hello, ${name}!`;
-};
+let message = name => `Hello, ${name}!`;
 
 // TODO: Uncomment the following line of code to see the output in the browser console
 console.log(message('Allie'));
@@ -172,9 +170,7 @@ console.log(joe.greeting());
 
 
 
-Student.courseName = function() {
-  return 'This student is enrolled in Code 301.';
-};
+Student.courseName = () => 'This student is enrolled in Code 301.';
 
 // TODO: Uncomment the following line of code to see the output in the browser console
 console.log(Student.courseName());
@@ -193,12 +189,12 @@ console.log(joe.scope());
 Student.prototype.scopeArrow = () => console.log(this);
 
 // TODO: Uncomment the following line of code to see the output in the browser console
-// console.log(joe.scopeArrow());
+console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//
+// When joe.scope is invoked it gives all properties of joe
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+// When joe.scopeArrow is invoked it gives a ton of what look like properties that just confuse me
 // 3. Explain why "this" is different when an arrow function is used.
-//
+// this is different in an arrow function because it gives different values than a regular function
