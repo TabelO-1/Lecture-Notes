@@ -30,7 +30,7 @@
 - state, aka `super(props)`
 
 11. When accessing a value in props, what syntax do we use?
-- we must use the this.props.propertyName
+- we must use the `this.props.propertyName`
 
 12. Can you send props back up to a parent component?
 - your answer goes here...
