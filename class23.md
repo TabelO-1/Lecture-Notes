@@ -1,22 +1,25 @@
 # ✍️ Notes
 
 1. What does CLI stand for?
-    - your answer goes here...
+    - Command Line Interface.
+    - Command Line Interperter
+    - Command Line Input
+    - AKA Linux terminal
 
 2. What is the command line used for?
-    - your answer goes here...
+    - CLI is used by software developers and system adminstators to configure computers, install software, and access features that are not avaiable in the graphical interface
 
 3. What is the command that creates a new React app?
-    - your answer goes here...
+    - npx create-react-app name-my-app
 
 4. What does create-react-app do?
-    - your answer goes here...
+    - Create React App is a comfortable environment for learning react, and is the best way to start building a new single page application in React. It sets up your development enviroment so that you can use the latest JS features, provides a nice developer expirence, and optimizes you app for production. When we use create-react-app tool it creates a hierarchy of files and folder in an out-of-the-box, working application for us.
 
 5. What does npx stand for?
-    - your answer goes here...
+    - Node package executer
 
 6. What does npx do?
-    - your answer goes here...
+    - NPX comes built into npm. It is a node package
 
 7. What does npm stand for?
     - your answer goes here...
