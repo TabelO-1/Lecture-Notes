@@ -33,7 +33,7 @@
 - we must use the `this.props.propertyName`
 
 12. Can you send props back up to a parent component?
-- your answer goes here...
+- No you cannot cannot.
 
 13. How do you lift state?
-- your answer goes here...
+- you can lift state by calling a function in a child component that is being defined in a parent component and passing it a new value for the state property.
