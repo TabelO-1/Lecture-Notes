@@ -1,0 +1,84 @@
+# ✍️ Notes
+
+1. What does CLI stand for?
+    - your answer goes here...
+
+2. What is the command line used for?
+    - your answer goes here...
+
+3. What is the command that creates a new React app?
+    - your answer goes here...
+
+4. What does create-react-app do?
+    - your answer goes here...
+
+5. What does npx stand for?
+    - your answer goes here...
+
+6. What does npx do?
+    - your answer goes here...
+
+7. What does npm stand for?
+    - your answer goes here...
+
+8. What does npm do?
+    - your answer goes here...
+
+9. What are the differences between npm and npx?
+    - your answer goes here...
+
+10. What is the command that starts the React server?
+    - your answer goes here...
+
+
+11. What URL do I navigate to in order to view my React app in the browser?
+    - your answer goes here...
+
+12. What is the purpose of a package.json?
+    - your answer goes here...
+
+13. What are node modules?
+    - your answer goes here...
+
+14. What is the .gitignore?
+    - your answer goes here...
+
+15. What is the purpose of the public directory?
+    - your answer goes here...
+
+16. What is the purpose of the public/index.html?
+    - your answer goes here...
+
+17. What is the purpose of the src directory?
+    - your answer goes here...
+
+18. What is the purpose of the src/index.js?
+    - your answer goes here...
+
+19. What is significant about this line of code?
+`ReactDOM.render(<App />, document.getElementById(‘root’));`
+    - your answer goes here...
+
+20. What is `ReactDOM`?
+    - your answer goes here...
+
+21. What is a difference between render() and ReactDOM.render()?
+    - your answer goes here...
+
+22. What is React.StrictMode?
+    - your answer goes here...
+
+23. What can I get rid of when I am ready to start customizing my React application?
+    - your answer goes here...
+
+24. Where can I find build instructions and other helpful React tips?
+    - your answer goes here...
+
+25. How do I close down the React server?
+    - your answer goes here...
+
+# Resources
+- [w3Schools: CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
+- [What Is package.json?](https://heynode.com/tutorial/what-packagejson/)
+- [CRA File Structure Explained](https://medium.com/@abesingh1/create-react-app-files-folders-structure-explained-df24770f8562)
+- [A quick guide to help you understand and create ReactJS apps](https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/)
