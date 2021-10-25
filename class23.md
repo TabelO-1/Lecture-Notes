@@ -49,26 +49,26 @@
     - This golder contains the HTML file, index.html. This is the page template and must named exactly this because it is the template file which is served up when we start our script to launch our app. It is considered best practive not to create multiple html files in the public folder. You would normally only work in this folder when importing css
 
 16. What is the purpose of the public/index.html?
-    - your answer goes here...
+    - It is the page template. Only files inside the public folder can be used from public/index.html. When the application starts this is the first page that is loaded. This will be the only html file in the entire application since React is generally Written using JSX. This file has a line of code `<div id=”root”></div>`. This line is very significant since all the application components are loaded into this div.
 
 17. What is the purpose of the src directory?
     - In simplest form it's the mind of our app
 
 18. What is the purpose of the src/index.js?
-    - your answer goes here...
+    - It is the JS entry point and the JS file corresponding to index html. This is the most top level script that controls all the components under it.
 
 19. What is significant about this line of code?
 `ReactDOM.render(<App />, document.getElementById(‘root’));`
-    - your answer goes here...
+    - It is targetting the `<html>` element on the HTML page
 
 20. What is `ReactDOM`?
-    - your answer goes here...
+    - React's Rendering API.
 
 21. What is a difference between render() and ReactDOM.render()?
-    - your answer goes here...
+    - `ReactDom.render` renders your components to the DOM while a component's render returns the elements that make up the component
 
 22. What is React.StrictMode?
-    - your answer goes here...
+    - It warns you when you are writing bad react and that it won't work. It warns you in the console
 
 23. What can I get rid of when I am ready to start customizing my React application?
     - your answer goes here...This is a long list that i'll just pull down.
@@ -77,7 +77,7 @@
     - in the README.md that is generated from CRA
 
 25. How do I close down the React server?
-    - type in control + C in the terminal
+    - type in ctrl + C in the terminal
 
 # Resources
 - [w3Schools: CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
