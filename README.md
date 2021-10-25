@@ -16,3 +16,5 @@ This is a Page for lecture notes
 [`Component State`](class19.md)
 
 [Class 22](class22.md)
+
+[Class 23](class23.md)
