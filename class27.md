@@ -1,24 +1,24 @@
 # ✍️ Notes
 1. List some of JavaScript's data types:
-- your answer goes here...
+- Array, String, Boolean, Object, Function, Symbol, Undefined, Null
 
 2. In JavaScript, ______ __________ is an object.
-- your answer goes here...
+- All Javascript values, except pro,otoves, are objects.
 
 3. What are "JavaScript Primitives"?
-- your answer goes here...
+- A primitive is a value that has no properties or methods. A primtive data type is data that has a primtive value
 
 4. How many primitive data types are there?
-- your answer goes here...
+- There are 7 primtive data types: string, number, bigint, boolean, undefined, symbol, and null.
 
 5. What are the three JavaScript Primative Wrapper types?
-- your answer goes here...
+- JavaScript provides three primitive wrapper types: Boolean, Number, and String types.
 
 6. What does a JavaScript Primative Wrapper do?
-- your answer goes here...
+- The primtive wrappers make it easier to call JavaScript's built-in methods on the primitive value.
 
 7. What is the Primative Wrapper doing under the hood when you call a method on a variable that holds a number, a string, or a boolean?
-- your answer goes here...
+- JavaScript will create an object of a corresponding type. Then call the method on the instance. And lastly, Javascript deletes the instance immediately after it is finished and moves onto the next script.
 
 8. What are functions that are binded to an object called?
 - your answer goes here...
@@ -43,10 +43,11 @@
 
 15. How am I suppose to know what to search for in Google?
 - your answer goes here...
+# TODO
  - [x] Copy paste
  - [ ] Complete Lecture Notes
  - [ ] Complete on time
- - [x]~~Conquer the World~~
+ - ~~[x] Conquer the World~~
 # Resources
 - [MDN on Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [w3Schools on Objects](https://www.w3schools.com/js/js_object_definition.asp)
