@@ -3,7 +3,7 @@
 - Array, String, Boolean, Object, Function, Symbol, Undefined, Null
 
 2. In JavaScript, ______ __________ is an object.
-- All Javascript values, except pro,otoves, are objects.
+- All Javascript values, except primtives, are objects.
 
 3. What are "JavaScript Primitives"?
 - A primitive is a value that has no properties or methods. A primtive data type is data that has a primtive value
