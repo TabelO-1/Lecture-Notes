@@ -59,9 +59,9 @@ console.log(caps) //BANNANA!
     > ex: "how to slice string JavaScript"
 # TODO
  - [x] Copy paste
- - [ ] Complete Lecture Notes
- - [ ] Complete on time
- - [x] ~~Conquer the World~~
+ - [x] Complete Lecture Notes
+ - [x] Complete on time
+ - [ ] ~~Conquer the World~~
 # Resources
 - [MDN on Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [w3Schools on Objects](https://www.w3schools.com/js/js_object_definition.asp)
