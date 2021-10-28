@@ -21,33 +21,47 @@
 - JavaScript will create an object of a corresponding type. Then call the method on the instance. And lastly, Javascript deletes the instance immediately after it is finished and moves onto the next script.
 
 8. What are functions that are binded to an object called?
-- your answer goes here...
+- method
 
 9. So if almost everything in JavaScript is an object, what does that mean for most data types?
-- your answer goes here...
+- Most data types will have their very own special methods built into JS.
 
 10. What do these special built-in methods do?
-- your answer goes here...
+- A method can accomplish any number of popular tasks in programming. A few popular tasks are: adding values, remove values, moving values, modifying values or reading values.
 
 11. How do we access a method on an object?
-- your answer goes here...
+- dot notation
 
 12. How do we use a built-in method on a JavaScript data type?
-- your answer goes here...
+- use dot notation on the variable name to invoke the method
+```
+let foo = "bannana!"
+let caps = foo.toUpperCase();
+console.log(caps) //BANNANA!
+```
 
 13. What kind of built-in methods are we going to learn about in 301?
-- your answer goes here...
+- string methods
+- array methods
+- object methods
+- number methods
+- math methods
 
 14. Where can you go to learn about the different methods avaiable to each data type?
-- your answer goes here...
+- Google It!
+- MDN Web Docs
+- W3Schools
 
 15. How am I suppose to know what to search for in Google?
-- your answer goes here...
+- An easy way to search for methods that would help solve your algorithm is to use this pattern:
+    > "how to" + "to the thing" + "data type" + "JavaScript"
+    >
+    > ex: "how to slice string JavaScript"
 # TODO
  - [x] Copy paste
  - [ ] Complete Lecture Notes
  - [ ] Complete on time
- - ~~[x] Conquer the World~~
+ - [x] ~~Conquer the World~~
 # Resources
 - [MDN on Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [w3Schools on Objects](https://www.w3schools.com/js/js_object_definition.asp)
