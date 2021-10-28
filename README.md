@@ -18,3 +18,5 @@ This is a Page for lecture notes
 [Class 22](class22.md)
 
 [Class 23](class23.md)
+
+[Class 27](class27.md)
