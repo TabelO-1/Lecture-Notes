@@ -22,3 +22,5 @@ This is a Page for lecture notes
 [Class 27](class27.md)
 
 [Class 28](class28.md)
+
+[Class 30](class30.md)
