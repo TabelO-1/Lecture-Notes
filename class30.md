@@ -16,15 +16,15 @@
 7. How do you access an array element?
     * arrayName[index].method() aka bracket notation
 8. What number does an array index start at?
-    *
+    * 0
 9. Arrays are a special type of ______ in JavaScript.
-    * 
+    * special type of object
 10. What does "traversal and mutation operations" mean?
-    * 
+    * It means they can be changed freely, even if the array was delcared with `const`
 11. What does `array.length` do?
-    * 
+    * Displays how many items are in the array
 12. What does `array.push()` do?
-    * 
+    * it pushes a new item into the array at a certain index
 
 # Resources
 - [MDN on Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
