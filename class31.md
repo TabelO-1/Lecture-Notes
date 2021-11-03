@@ -29,7 +29,7 @@
     * STEP 4: Then the iterator expression is executed and either increments or decrements the loop to the next iteration.
     * STEP 5: Lastly, we circle back up to step 2 and the for loop continues to run until the condition returns false
 10. What is a callback function?
-    * 
+    * A function that is passed as a parameter to another function.
 11. When do we use a callback function?
     * 
 
