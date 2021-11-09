@@ -28,3 +28,5 @@ This is a Page for lecture notes
 [Class 31](class31.md)
 
 [Class 32](class32.md)
+
+[`Array.map`](class36.md)
