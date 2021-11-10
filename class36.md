@@ -2,34 +2,34 @@
 
 
 1. What is the definition of Array.map?
-    * your answer here...
+    * the `map()` method creates a new array populated with the results of calling a provided function AKA a callback function on every element in the calling array.
 
 2. What data type can you call map on?
-    * your answer here...
+    * array.
 
 3. What does the pseudocode for map look like?
-    * your answer here...
+    * `array.map(callback(currentValue, index, arr), thisArg);`.
 
 4. What are the 2 input arguments for map?
-    * your answer here...
+    * `callback` and `thisArg`.
 
 5. What are the arguments the callback function takes in?
-    * your answer here...
+    * `currentValue`, `index`, and `arr`.
 
 6. What is currentValue referring to?
-    * your answer here...
+    * the current item in the array that is being used.
 
 7. What is the output of map?
-    * your answer here...
+    * A new array back with each element being the result of the callback function
 
 8. Does map mutate the original array?
-    * your answer here...
+    * no
 
 9. What does it mean when an argument is optional?
-    * your answer here...
+    * It does not have to be used for your `array.map` for it to work
 
 10. What is the only difference between Array.forEach and Array.map?
-    * your answer here...
+    * `array.forEach` returns undefined. `array.map` returns a new array.
 
 # Resources
     - [MDN on map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
