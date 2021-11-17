@@ -4,36 +4,43 @@ Booleans and Conditions
 # ✍️ Notes
 
 1. What is a condition in JavaScript?
-* your answer goes here....
+* Conditional statements are used to perform different action absed on different conditions.
 
 2. What is a boolean?
-* your answer goes here....
+* Primitive value. It is a JS datatype.
 
 3. What two values does a boolean represent?
-* your answer goes here....
+* True or false.
 
 4. What are booleans used for in JavaScript?
-* your answer goes here....
+* Conditional Statements such as if statements. Ex: if (condition === true) {do this}
 
 5. What are comparison operators used for?
-* your answer goes here....
+* Are used to compare values and perform an action based of the result
 
 
 6. List and define the 8 comparison operators:
-* your answer goes here....
+* == equal to
+* === equal value and equal datatype
+* != not equal to
+* !== not equal value or datatype
+* '> greater than
+* < Less than
+* '>= greater than or equal to
+* <= less than or equal to 
 
 7. What kinds of values return a "true" boolean?
-* your answer goes here....
+* All strings with a value. All non 0 numbers. true. objects and arrays.
 
 8. What kinds of values return a "false" boolean??
-* your answer goes here....
+* false. null. empty string. 0. undefined. NaN.
 
 9. What is a ternary?
-* your answer goes here...
+* It does the same thing as an if statement but with shorter syntax
 
 
 10. What is the syntax for a ternary?
-* your answer goes here....
+* condition ? true: false;
 
 
 
