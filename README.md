@@ -32,3 +32,5 @@ This is a Page for lecture notes
 [`Array.map`](class36.md)
 
 [Boolean and Conditions Review](class40.md)
+
+[`Array.filter`](class41.md)
